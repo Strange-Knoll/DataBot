@@ -1,4 +1,4 @@
-# Data Bot 2
+# DataBot
 Data is an AI assistant designed to explore and query sqlite databases. 
 *note:* Data requires you to have an OpeanAI api key
 ```export OPENAI_API_KEY="sk-..."```
